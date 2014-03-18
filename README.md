@@ -12,5 +12,5 @@ Load the extension
 
 Examples
 ------------------------
-Example 1. Hello-world</br>
+Example 1. Hello-world
 <p>This example simply adds an extension  to your chrome which on click shows a popup with a text "Hello World".</p>
