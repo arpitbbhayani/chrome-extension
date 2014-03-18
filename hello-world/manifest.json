@@ -1,7 +1,7 @@
 {
 	"manifest_version":2,
 	"name":"Devilo's Chrome Extension - Hello World",
-	"description":"Hello world for the Chrome Extension. The first step towards chrome extension development.",
+	"description":"Hello world for the Chrome Extension.",
 	"version":"1.0",
 	"permissions": [
 		"https://secure.flickr.com/"
