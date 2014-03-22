@@ -1,0 +1,12 @@
+{
+	"name":"Devilo's - Page content script",
+	"description":"Changes the page content",
+	"version":"1",
+	"manifest_version":2,
+	"content_scripts":[
+		{
+			"matches":["http://www.google.co.in/*" , "https://www.google.co.in/*","http://www.facebook.com/*" , "https://www.facebook.com/*"],
+			"js":["content_change_script.js"]
+		}
+	]
+}

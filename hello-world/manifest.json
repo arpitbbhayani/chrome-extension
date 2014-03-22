@@ -1,13 +1,11 @@
 {
 	"manifest_version":2,
-	"name":"Devilo's Chrome Extension - Hello World",
+	"name":"Devilo's - Hello World",
 	"description":"Hello world for the Chrome Extension.",
 	"version":"1.0",
-	"permissions": [
-		"https://secure.flickr.com/"
-	],
 	"browser_action" : {
 		"browser_icon" : "icon.png",
-		"default_popup" : "popup.html"
+		"default_popup" : "popup.html",
+		"default_title" : "Devilo Chrome Extension"
 	}
 }

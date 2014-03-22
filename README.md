@@ -14,4 +14,12 @@ If the extension is valid, it'll be loaded up and active right away! If it's inv
 Examples
 -------------------------
 - *hello-world*<br/>
-    This example simply adds an extension  to your chrome which on click shows a popup with a text "Hello World".
+    This example adds an extension  to your chrome which on click shows a popup with a text "Hello World".
+- *content-script-example*<br/>
+    This example adds button to the google.co.in page. This button is at the end of the page. When the button is clicked; it says 'Hello World'.
+
+
+Sample Tutorials
+-------------------------
+- http://code.tutsplus.com/tutorials/developing-google-chrome-extensions--net-33076
+- http://developer.chrome.com/extensions/samples

@@ -1,0 +1,1 @@
+chrome.browserAction.setTitle("TITLE");
